@@ -1,0 +1,10 @@
+name: "Lewis Matos"
+description: "My First Blog"
+
+url: "Lewiz23.github.com"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
