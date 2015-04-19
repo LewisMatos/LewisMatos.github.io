@@ -4,5 +4,5 @@
   
   <h3><strong>Visit My Page</strong><h3>
   
-  <h1><strong>http://lewismatos.github.io/FirstWebPage//</strong><h1>
+  <h1><strong>http://lewismatos.github.io/FirstWebPage</strong><h1>
 <html>
