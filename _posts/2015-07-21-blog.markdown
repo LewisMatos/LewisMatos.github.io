@@ -11,8 +11,7 @@ summary: My implementation of minimax search algorithm
 image: cpplogo.ico
 ---
 
-<a class="embedly-card" href="http://lewismatos.github.io/MiniMaxTicTacToe/">Lewis Matos</a>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+ <iframe src="http://www.w3schools.com"></iframe> 
 
 
 <div class="row">	
