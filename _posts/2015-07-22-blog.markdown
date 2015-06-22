@@ -1,13 +1,13 @@
 ---
 layout: post
-title: How to build your own mechanical keyboard
+title: How I built my very own Mechanical Keyboard.
 category: Mechanical keyboard
 tags: Mechanical keyboard arduino microcontroller teensy 2.0 cherry mx switch atomic keyboard
 year: 2015
 month: 06
 day: 22
 published: true
-summary: Tutorial on building your own mechanical keyboard
+summary: Mechanical Keyboard build log
 image: chmxb.ico
 ---
 
