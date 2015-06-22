@@ -11,7 +11,7 @@ summary: My implementation of minimax search algorithm
 image: cpplogo.ico
 ---
 
-<iframe src="http://lewismatos.github.io/MiniMaxTicTacToe/" width="100%" height="3000px" frameborder="0" scrolling="no"></iframe>
+<iframe src="http://lewismatos.github.io/MiniMaxTicTacToe/" width="100%" height="3300px" frameborder="0" scrolling="no"></iframe>
 
 
 <div class="row">	
