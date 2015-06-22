@@ -11,7 +11,7 @@ summary: Mechanical Keyboard build log
 image: chmxb.ico
 ---
 
-
+<img src ="https://www.dropbox.com/s/kswpxt55oxisgxd/WIN_20150524_182213.JPG?dl=0">
 
 <div class="row">	
 <div class="span9 columns">    
