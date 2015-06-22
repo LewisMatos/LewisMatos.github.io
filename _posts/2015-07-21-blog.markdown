@@ -4,7 +4,7 @@ title: Minimax search algorithm in Tic Tac Toe
 category: Coding
 tags: Javascript Html Minimax algorithm search
 year: 2015
-month: 6
+month: 06
 day: 21
 published: true
 summary: My implementation of minimax search algorithm
