@@ -11,7 +11,7 @@ summary: Mechanical Keyboard build log
 image: chmxb.ico
 ---
 
-<img src="https://photos-3.dropbox.com/t/2/AAAPKPabfKeESubkmIyTtYbuxHAhpmhy6zqrA14Emuhdrg/12/107111004/jpeg/32x32/1/1434956400/0/2/20150616_015501_5.jpg/CNzEiTMgASACIAMgBCAFIAYgBygBKAIoAw/9OcJ9bGtiEBFAZLoalMuFsr3EVvIrUIAPOGfZn58PcQ?size=1280x960&size_mode=2" style="width:100%;height:100%;">
+<img src="https://dl.dropboxusercontent.com/u/107111004/Keyboard/Camera/20150616_015500_1.jpg" style="width:100%;height:100%;">
 
 <img src="https://dl.dropboxusercontent.com/u/107111004/Keyboard/WIN_20150530_132835.JPG" style="width:100%;height:100%;">
 
